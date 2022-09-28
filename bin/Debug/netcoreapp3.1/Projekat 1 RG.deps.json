@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Projekat 1 RG/1.0.0": {
+        "runtime": {
+          "Projekat 1 RG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projekat 1 RG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

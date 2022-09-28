@@ -1,0 +1,16 @@
+C:\Users\Laptop\Desktop\Projekat 1 RG\Projekat 1 RG\bin\Debug\netcoreapp3.1\Projekat 1 RG.exe
+C:\Users\Laptop\Desktop\Projekat 1 RG\Projekat 1 RG\bin\Debug\netcoreapp3.1\Projekat 1 RG.deps.json
+C:\Users\Laptop\Desktop\Projekat 1 RG\Projekat 1 RG\bin\Debug\netcoreapp3.1\Projekat 1 RG.runtimeconfig.json
+C:\Users\Laptop\Desktop\Projekat 1 RG\Projekat 1 RG\bin\Debug\netcoreapp3.1\Projekat 1 RG.runtimeconfig.dev.json
+C:\Users\Laptop\Desktop\Projekat 1 RG\Projekat 1 RG\bin\Debug\netcoreapp3.1\Projekat 1 RG.dll
+C:\Users\Laptop\Desktop\Projekat 1 RG\Projekat 1 RG\bin\Debug\netcoreapp3.1\Projekat 1 RG.pdb
+C:\Users\Laptop\Desktop\Projekat 1 RG\Projekat 1 RG\obj\Debug\netcoreapp3.1\Projekat 1 RG.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\Projekat 1 RG\Projekat 1 RG\obj\Debug\netcoreapp3.1\Projekat_1_RG.Form1.resources
+C:\Users\Laptop\Desktop\Projekat 1 RG\Projekat 1 RG\obj\Debug\netcoreapp3.1\Projekat 1 RG.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\Projekat 1 RG\Projekat 1 RG\obj\Debug\netcoreapp3.1\Projekat 1 RG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\Projekat 1 RG\Projekat 1 RG\obj\Debug\netcoreapp3.1\Projekat 1 RG.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\Projekat 1 RG\Projekat 1 RG\obj\Debug\netcoreapp3.1\Projekat 1 RG.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\Projekat 1 RG\Projekat 1 RG\obj\Debug\netcoreapp3.1\Projekat 1 RG.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Projekat 1 RG\Projekat 1 RG\obj\Debug\netcoreapp3.1\Projekat 1 RG.dll
+C:\Users\Laptop\Desktop\Projekat 1 RG\Projekat 1 RG\obj\Debug\netcoreapp3.1\Projekat 1 RG.pdb
+C:\Users\Laptop\Desktop\Projekat 1 RG\Projekat 1 RG\obj\Debug\netcoreapp3.1\Projekat 1 RG.genruntimeconfig.cache
